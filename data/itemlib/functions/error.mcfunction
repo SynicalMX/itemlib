@@ -1,0 +1,1 @@
+$tellraw @s ["",{"text":"[","color":"#4DCE4B"},{"text":"ItemLib","color":"#58EC55"},{"text":"] ","color":"#4DCE4B"},{"text":"ERROR: ","bold":true,"color":"#E01010"},{"text":"$(message)","color":"red"}]
